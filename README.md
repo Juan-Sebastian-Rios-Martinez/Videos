@@ -5,7 +5,7 @@
 
 <a href="https://youtu.be/RBuBR3EDF9U">
         <img width="80%"
-            src="https://github.com/user-attachments/assets/0f7a85ef-da21-4f46-bdf8-ddb372c34ad9" />
+            src="https://github.com/user-attachments/assets/3a231d13-39f2-4a31-933c-f64f4417ad59" />
     </a>
 
 
