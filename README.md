@@ -4,8 +4,6 @@
 <div align="center">
 
 
-   &nbsp;
-
 <a href="https://www.youtube.com/watch?v=cQPskuZ33LY">
   <img width="80%"
             src="https://github.com/user-attachments/assets/85edaf51-0f41-4436-b08d-61b179027d75" />
