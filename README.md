@@ -26,6 +26,27 @@
     </a>
 
 
+
+
+   &nbsp;
+
+ <a href="https://youtu.be/JvPIOgLRpbE?si=MgCA781w6w2n92EX">
+        <img width="80%"
+            src="https://github.com/user-attachments/assets/41bef891-901f-43a3-887e-f615de47dd07" />
+    </a>
+
+
+
+
+
+   &nbsp;
+
+ <a href="https://youtu.be/Q0ecbU1IRYs?si=emOx6LS9p9L35ZN_">
+        <img width="80%"
+            src="https://github.com/user-attachments/assets/9979a316-0c0b-4685-888b-39379f18b267" />
+    </a>
+
+
    &nbsp;
 
 <a href="https://youtu.be/KHdpOamWmZE">
